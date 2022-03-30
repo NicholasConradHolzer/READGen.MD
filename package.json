@@ -1,0 +1,14 @@
+{
+  "name": "readme_builder",
+  "version": "1.0.0",
+  "description": "program that enables command line readme generation using the inquirer package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Holzer",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
