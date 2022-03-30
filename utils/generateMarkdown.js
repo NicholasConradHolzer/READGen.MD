@@ -74,7 +74,7 @@ return `# ${data.name}
  ### Table of Contents:
  - [Installation](#installation)
  - [Usage](#usage)
- - [Contributing](#credits)
+ - [Contributors](#credits)
  - [Tests](#test)
  - [Questions](#questions)
  ${rendTableLink(data.license)}\n
